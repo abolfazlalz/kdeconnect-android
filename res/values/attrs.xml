@@ -1,4 +1,4 @@
-<resources>
+-<resources>
     <!-- A high-contrast color for important visual elements (for less important elements, use colorControlNormal instead) -->
     <attr name="colorHighContrast" format="color" />
 
